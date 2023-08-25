@@ -36,7 +36,7 @@ Logic gates are electronic circuits which perform logical functions on one or mo
 6.Give the respective inputs for timing diagram and obtain the results
 ## Program:
 /*
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming.\br
 Developed by: sivaram R
 RegisterNumber:  212222100050
 /*
@@ -61,6 +61,7 @@ endmodule
 ## Output:
 ## RTL
 F1:
+
 ![RTL1](https://github.com/sivaram-R/Experiment--02-Implementation-of-combinational-logic-/assets/121165794/3109aeff-8262-4967-b27b-3c79b4b443d9)
 
 ## Timing Diagram

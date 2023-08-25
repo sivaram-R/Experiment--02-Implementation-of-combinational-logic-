@@ -40,7 +40,6 @@ Developed by: sivaram R
 RegisterNumber:  212222100050
 ```
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
-
 module ex2(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
@@ -55,16 +54,12 @@ endmodule
 
 ```
 ## RTL realization
-
 ## Output:
 ## RTL
-F1:
 
 ![RTL1](https://github.com/sivaram-R/Experiment--02-Implementation-of-combinational-logic-/assets/121165794/3109aeff-8262-4967-b27b-3c79b4b443d9)
-
 ## Timing Diagram
 F1:
 ![2023-08-25 (2)](https://github.com/sivaram-R/Experiment--02-Implementation-of-combinational-logic-/assets/121165794/2b89a585-3d26-497c-9403-40796c8eba04)
-
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.

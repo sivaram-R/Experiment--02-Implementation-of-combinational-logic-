@@ -53,15 +53,12 @@ assign F1 = x1 | x2 | x3 | x4 | x5;
 endmodule 
 
 ```
-## RTL realization
-## Output:
-## Truth table:
-![Uploading truthtable2.jpg…]()
+## TRUTH TABLE:
+![ex2 tt](https://github.com/sivaram-R/Experiment--02-Implementation-of-combinational-logic-/assets/121165794/06051878-917d-4434-866a-a7109cc4d7c4)
 
-## RTL
-
+## RTL DIAGRAM:
 ![RTL1](https://github.com/sivaram-R/Experiment--02-Implementation-of-combinational-logic-/assets/121165794/3109aeff-8262-4967-b27b-3c79b4b443d9)
-## Timing Diagram
+## OUTPUT:
 ![2023-08-25 (2)](https://github.com/sivaram-R/Experiment--02-Implementation-of-combinational-logic-/assets/121165794/2b89a585-3d26-497c-9403-40796c8eba04)
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
